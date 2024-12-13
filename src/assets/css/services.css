@@ -2406,7 +2406,7 @@
   #content-page-848 p:last-of-type {
     margin-bottom: 2rem;
   }
-  #content-page-848 p a {
+  #content-page-848 p ab {
     font-size: 1rem;
     font-weight: 700;
     /* 46px - 56px */
@@ -2424,7 +2424,7 @@
     position: relative;
     z-index: 1;
   }
-  #content-page-848 p a:before {
+  #content-page-848 p ab:before {
     content: "";
     width: 0%;
     height: 100%;
@@ -2436,7 +2436,7 @@
     z-index: -1;
     transition: width 0.3s;
   }
-  #content-page-848 p a:hover:before {
+  #content-page-848 p ab:hover:before {
     width: 100%;
   }
   #content-page-848 ol,
