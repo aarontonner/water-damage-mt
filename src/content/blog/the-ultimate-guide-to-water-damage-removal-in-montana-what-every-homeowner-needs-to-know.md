@@ -75,10 +75,23 @@ While some minor water issues can be addressed by homeowners, **significant wate
 
 Water damage poses a serious threat to Montana homeowners, but with awareness and proactive measures, its impact can be mitigated. Regular maintenance, prompt action during incidents, and engaging professional restoration services are key to protecting your home and ensuring peace of mind. Here is a list of our service locations, if you live in any of these cities, make sure to call your Montana water damage pro's.
 
-* [Belgrade, MT](https://montanafloodrepair.com/)
-* [Billings, MT](https://montanafloodrepair.com/billings)
-* [Bozeman, MT](https://montanafloodrepair.com/bozeman)
-* [Kalispell, MT](https://montanafloodrepair.com/kalispell)
-* [Missoula, MT](https://montanafloodrepair.com/missoula)
+* [](https://montanafloodrepair.com/)[](https://montanafloodrepair.com/missoula)[Belgrade, MT](<>)
+* [Billings, MT](<>)
+* [Bozeman, MT](<>)
+* [Kalispell, MT](<>)
+* [Missoula, MT](<>)
+* [Helena, MT](<>)
+* [Livingston, MT](<>)
+* [Hamilton, MT](<>)
+* [Great Falls, MT](<>)
+* [Ennis, MT](<>)
+* [Dillon, MT](<>)
+* [Columbia Falls, MT](<>)
+* [Butte-Silver Bow, MT](<>)
+* [Bigfork, MT](<>)
+* [Big Timber, MT](<>)
+* [Yellowstone County, MT](<>)
+* [Whitefish, MT](<>)
 
+[](tel:4065211378)
 [(406) 521-1378](tel:4065211378)
